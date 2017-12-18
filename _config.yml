@@ -1,0 +1,10 @@
+# Site settings
+title: Dian Chen
+tag_text: Dian Chen
+description: 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
